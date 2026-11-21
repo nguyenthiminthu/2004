@@ -1,0 +1,17 @@
+{
+  "name": "THM · OKR Bộ phận",
+  "short_name": "THM OKR",
+  "description": "Đánh giá OKR các bộ phận – Công ty TNHH Sơn Thế Hệ Mới",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f5f3",
+  "theme_color": "#184f95",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
